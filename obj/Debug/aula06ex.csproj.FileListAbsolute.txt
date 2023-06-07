@@ -1,0 +1,6 @@
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\bin\Debug\aula06ex.exe.config
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\bin\Debug\aula06ex.exe
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\bin\Debug\aula06ex.pdb
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\obj\Debug\aula06ex.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\obj\Debug\aula06ex.exe
+C:\Users\eduardo.lfuzato\source\repos\aula06ex\aula06ex\obj\Debug\aula06ex.pdb
